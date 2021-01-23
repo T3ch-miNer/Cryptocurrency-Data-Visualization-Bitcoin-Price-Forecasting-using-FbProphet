@@ -27,5 +27,5 @@ With the advancement in Machine Learning and Time-series Forecasting, it can act
 - go to historical data and select the period 
 - download
 
-##Compare the Forecast Price against the Actual Price of Bitcoin using google sheet
+## Compare the Forecast Price against the actual price of Bitcoin using google sheet
 Command to fetch data is `=GOOGLEFINANCE("CURRENCY:BTCINR","PRICE",DATE(2020,10,1),DATE(2020,11,1)`
