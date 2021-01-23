@@ -21,8 +21,11 @@ What if there was a way to predict the price of Bitcoin a few weeks into the fut
 
 With the advancement in Machine Learning and Time-series Forecasting, it can actually predict the price of Bitcoin or any other cryptocurrency or perhaps even some stocks like TSLA, AAPL, AMZN, GOOG with fairly good accuracy.
 
-** How to get data ** 
+## How to get data ?
 - go to [yahoo finance](https://in.finance.yahoo.com/cryptocurrencies)
 - find the cyptocurrency and stocks 
 - go to historical data and select the period 
 - download
+
+##Compare the Forecast Price against the Actual Price of Bitcoin using google sheet
+Command to fetch data is `=GOOGLEFINANCE("CURRENCY:BTCINR","PRICE",DATE(2020,10,1),DATE(2020,11,1)`
