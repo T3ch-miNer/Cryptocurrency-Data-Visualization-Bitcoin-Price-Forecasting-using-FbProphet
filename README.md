@@ -23,7 +23,7 @@ With the advancement in Machine Learning and Time-series Forecasting, it can act
 
 ## How to get data ?
 - go to [yahoo finance](https://in.finance.yahoo.com/cryptocurrencies)
-- find the cyptocurrency and stocks 
+- find the cyptocurrency or stock you like or interested 
 - go to historical data and select the period 
 - download
 
